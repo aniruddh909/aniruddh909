@@ -1,8 +1,8 @@
 ## Hi, I'm Aniruddh!
 
 👨‍💻 CS Grad from India · 🇩🇪 MSc AI @ BTU Cottbus  
-🚀 Building Projects  
-💡 Turning Ideas into Code | Exploring AI, ML & Automation
+Building Projects  
+Turning Ideas into Code | Exploring AI, ML & Automation
 
 
 ## 🌐 Socials:
